@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
   // edit
+    // another note.
+    // test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
